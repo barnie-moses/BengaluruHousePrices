@@ -34,6 +34,7 @@ Built with a clean **React frontend**, **Flask backend**, and a **Linear Regress
 
 ## Project Structure
 
+```text
 BengaluruHousePrices/
 ├── model/                          ← Data Science + Raw Data
 │   ├── BengaluruHousePrices.ipynb  ← Full ML pipeline (EDA, cleaning, training)
@@ -53,7 +54,7 @@ BengaluruHousePrices/
 │   └── package.json
 │
 ├── README.md
-
+```
 
 
 ---
