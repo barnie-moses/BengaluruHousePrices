@@ -1,5 +1,7 @@
 # Bengaluru House Price Predictor
 
+![Bengaluru House Price Predictor Interface](client/src/assets/img1.png)
+
 **A full-stack Machine Learning web application** that predicts house prices in Bengaluru using historical data.
 
 Built with a clean **React frontend**, **Flask backend**, and a **Linear Regression model** trained on the famous Bengaluru House Prices dataset from kaggle.
